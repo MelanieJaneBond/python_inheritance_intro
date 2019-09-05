@@ -1,8 +1,9 @@
 # Define a class called Boat
-# Give it a method that allows the boat to move that prints the speed it's moving
+# Give it a method that allows the boat to move that prints 
+# the speed at which it's moving.
 # Define a Class called Kayak
 # Make it a derived class of Boat
-# Give it a method called paddle that uses its inherited move method
+# Give it a method called paddle that uses its inherited move method.
 # Make a Kayak instance and 'paddle' it
 
 
